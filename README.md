@@ -1,9 +1,3 @@
----
-title: Présentation de la Cagette
-description: Un supermarché coopératif à Montpellier
-image_url: https://raw.githubusercontent.com/la-cagette/documentation/master/img/cagette.jpg
----
-
 # Un supermarché coopératif à Montpellier?
 # Oui ! et avec Vous !
 Montpellier et ses alentours offrent une diversité de paysages et de productions agricoles inégalée : la montagne, les plateaux, les plaines, la mer et les étangs, les forêts, les vignes et les maraîchers. 
